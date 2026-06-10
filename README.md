@@ -1,6 +1,6 @@
 # Hey, I'm Krishna 👋
 
-### Software Developer • Problem Solver • Gamer
+### Software Developer • Problem Solver 
 
 > "Building projects, solving problems, and trying to become a little better every day."
 
@@ -68,17 +68,6 @@ I enjoy creating projects that are not just functional but also memorable.
 
 ---
 
-## 🎮 Beyond Coding
-
-When I'm not coding, you'll probably find me:
-
-* Playing Pokémon Unite
-* Gaming with friends
-* Watching unique movies and psychological thrillers
-* Exploring new technology and AI tools
-
----
-
 ## 🌟 Featured Projects
 
 ### Portfolio Website
@@ -97,8 +86,8 @@ My progress and solutions while mastering Data Structures and Algorithms.
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/KrishnaKrishnatrey11B
-* LinkedIn: Add your LinkedIn here
+* GitHub: https://github.com/krishna-krishnatrey07
+* LinkedIn: https://www.linkedin.com/in/krishna-krishnatrey/
 
 ---
 
